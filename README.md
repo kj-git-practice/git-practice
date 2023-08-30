@@ -1,12 +1,9 @@
-<<<<<<< Updated upstream
-# git-practice
-=======
+
 # git-practice
 
 ## git 사용법
 
 - github에 접속하여 clone을 한다.
-
   > $> git clone [github 주소]
 
 - git checkout vs git switch & git restore
@@ -14,4 +11,4 @@
   > // ㅎㅎ
 
 헬로 월드
->>>>>>> Stashed changes
+
