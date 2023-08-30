@@ -9,6 +9,7 @@
 - git checkout vs git switch & git restore
   > $> git chckout [브랜치 명]
   > // ㅎㅎ
+  > // freshman
 
 헬로 월드
 
